@@ -1,2 +1,2 @@
 # leaders_of_digital_microcirculation
-solution
+Решение было выполнено в google colab
